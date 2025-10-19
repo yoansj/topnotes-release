@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=tfniwl
+StartupWMClass=tfniwl
+Icon=tfniwl
+Name=topnotes
+Terminal=false
+Type=Application
