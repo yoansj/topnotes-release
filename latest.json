@@ -1,23 +1,23 @@
 {
   "version": "0.1.0",
-  "notes": "See assets to download this version and install.",
-  "pub_date": "2025-10-19T23:03:38.314Z",
+  "notes": "See the release notes",
+  "pub_date": "2025-10-20T00:42:16.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbVBva3Rrc3lHZGk2L1pFSW5MZTFPNWhHQ3ErNlhWdWhIcWQ2RUx3dXpBUnBZeC9JZHR3WXV3NWFLLzdzYmlvb0kvVXVLNXpnYlprV1NrMUYwOVIzQkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTE0NzcxCWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negp0Tk1kTDdUemdDSHRrUTdrNW1taWVCcUhiU1pwWjZ2emJzMWw1b0dJa2ZOSmNsSU1oNWFsVkl0cERzOHNvbFE4V05GSVZzTGNtUEU4UmZtNXh2NU9EZz09Cg==",
-      "url": "https://github.com/yoansj/the-floating-notes-i-would-like/releases/download/app-v0.1.0/topnotes_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUc5eUswLzV2dDJHOWt1MGhZSzV5dlZ6K1VyUHdRMzA0bkZwMEpJU0NaZDNLbVhCMkRhbjFrK1QrRkNpMEVnQ25aaXRycUE2ZlNGYkYvVGdnUGJDYndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTIwNzkyCWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negpUUUxNODhXenluQ0NBUHZ6N2tFS3N0VFVFNlhBK0pxQ084SUsxdVU2ZTJiMWQwTko0a3pxelV5aUo5QmFXWXlHQUFHOUkvNzNXTWY0UDM4OXBrZWZBZz09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/v0.1.0/topnotes.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUc1dXFteEJiUkdORDBwTGxFODFyMVU4a1lNTTV1d2NMc2dqSTY5eVp2NXA4NEQ0Z0VZSmJMNktQaFN1Q3hwM2VWQXBnR1A4NlcvVU45b1pnTTNUWGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTE0ODk1CWZpbGU6dG9wbm90ZXMuYXBwLnRhci5nego1alBCK2tuK1BucTBmZExYenkvaU1JTllXZU9aZ1huREwydDR3ZEtuZjZtYjExQWRiVXYzdVRENzdkZGdMb1hEcnRsa1BYdVlHNGQ2RWpOaFpIdmFCQT09Cg==",
-      "url": "https://github.com/yoansj/the-floating-notes-i-would-like/releases/download/app-v0.1.0/topnotes_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUc5eUswLzV2dDJHOWt1MGhZSzV5dlZ6K1VyUHdRMzA0bkZwMEpJU0NaZDNLbVhCMkRhbjFrK1QrRkNpMEVnQ25aaXRycUE2ZlNGYkYvVGdnUGJDYndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTIwNzkyCWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negpUUUxNODhXenluQ0NBUHZ6N2tFS3N0VFVFNlhBK0pxQ084SUsxdVU2ZTJiMWQwTko0a3pxelV5aUo5QmFXWXlHQUFHOUkvNzNXTWY0UDM4OXBrZWZBZz09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/v0.1.0/topnotes.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUVIRUdRdU1paFBucUZwN2lacmJFZmVYN1hpRWpzdFM5TEVJZ2NBSll1czM5ZkloZHk0aWloWVZ0Ymh3TlYwNlNaV2VrYlJPU2RSMVNPMkdWNm1tK2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTE1MDEyCWZpbGU6dG9wbm90ZXNfMC4xLjBfYW1kNjQuQXBwSW1hZ2UKeTVHUzZ4MnoreVhwckVaZVNVazRISkttTFFVTTNxZm95VFN0Qk9tNFpwckF1ZHJwMDFmSWE4YkFPdVl3Zml0SXhOR1luMnAxeHhJUXRWcXNGWmVaQnc9PQo=",
-      "url": "https://github.com/yoansj/the-floating-notes-i-would-like/releases/download/app-v0.1.0/topnotes_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUo4dENmTThhZkU5a2t1LzFFaHU4alJ5VjFXVmdiSDlRQngzR3pOT0p4YzExRWMwVHZESlFrQ1NrTkROOUtNK3ptRkFpaTVzRjZ1Sjd6TE5TL2ZRZ2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTIwODkwCWZpbGU6dG9wbm90ZXNfMC4xLjBfYW1kNjQuQXBwSW1hZ2UKZkNqR2liUGZoNTZXMElSNlVyVWc4Z1RtZGx5clNqRUF4VVBBVW5lNy9kMHV1bnlRclhTM2hFdkFHSUk4WGpIZE9aKzc3dy9XNUtIeW1OUnBMeEZUQ1E9PQo=",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/v0.1.0/topnotes_0.1.0_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUJtdzE2eG5xYlBibW1ZNFJkcnRWdXJwa09aVDJURzV5cmI1VWpvYXNKOEIrZEtoOUZYWFlUVDl4Vmwvbmp0STZya0t0b0NuRVRmVEdyeUZqQ1BmNndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTE0MTMxCWZpbGU6dG9wbm90ZXNfMC4xLjBfeDY0X2VuLVVTLm1zaQpvMldHeUdjRVA2RVFORGlLK2xMMDZEM1FDNGpsYXBEdnpVTkxJOWs5MUVkejdWT2RGUk1nZkRqQ1lXRHRSN2thOHEwWTZBVWFKZldMMktxNXhRRGtEQT09Cg==",
-      "url": "https://github.com/yoansj/the-floating-notes-i-would-like/releases/download/app-v0.1.0/topnotes_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUZQYlJQWDhGQktucHdDSWYvNE9BR1pvbnhZckt3eHlwRXl2Wk9VdHRJdTdJRHVIWHZDMks5Z2N3UGhqS0haVDJUQzZHZ2FiTTRxRE5XWHlST3pXYmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTIwODc1CWZpbGU6dG9wbm90ZXNfMC4xLjBfeDY0X2VuLVVTLm1zaQowS1NCWmJBRUFrRSsrdm9DMTZpWHRkQkVoY3dqVVdsSmFjWnM3TTNRTURMNmlJQnZLTTRXSzV2b2xxN25sRU5jTkNqS2RCbmhlNWh6QjhGVmxlK2pDUT09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/v0.1.0/topnotes_0.1.0_x64_en-US.msi"
     }
   }
 }
