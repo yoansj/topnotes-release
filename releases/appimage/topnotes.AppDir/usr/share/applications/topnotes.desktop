@@ -1,9 +1,9 @@
 [Desktop Entry]
 Categories=
-Comment=A Tauri App
-Exec=tfniwl
-StartupWMClass=tfniwl
-Icon=tfniwl
+Comment=markdown floating notes app
+Exec=topnotes
+StartupWMClass=topnotes
+Icon=topnotes
 Name=topnotes
 Terminal=false
 Type=Application

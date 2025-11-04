@@ -1,23 +1,39 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "notes": "See assets to download this version and install.",
-  "pub_date": "2025-10-20T19:06:48.291Z",
+  "pub_date": "2025-11-04T13:30:02.695Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUNSajErd2xBbVVEV2Y2VUVTNzVUSFZQd1hnK0c5YzNYRU9BeDIzSHNydlhJSzY4QjdVTUZEUGw1SSt1bHlsekRzOXNhRm1HVG9QT1J5a3ArK052VWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTg2OTE4CWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negpUelRVR09oR2xlTDZQMEtUN0RHa05EaEx2TXh5M1phdTN0T1dWMU5FblAvOUlkOEl0cFhnSldwdU4zVnpuN3NWM1VQMS85U1NJQ1JLWkM5cUxVNm5EUT09Cg==",
-      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.1.0/topnotes_aarch64.app.tar.gz"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbU5WdC9NSkhQRHRJY2F4TlhjMVdscEVnUVBJNkRuWjg5amxjU0ZER2VGcVcxS3NxVVVKWVhMZGRYakVYNy9Fd24vM1BaK2VDbDFORWNtTnVTYTZ4TGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTg3MDIxCWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negoxbTZNREI2L0FmZmY5d2d4TWprajNXdmFvNU9uZ1FLUVJCV2JYQ0o3R3Z5enFoOWJvalZnZHcyVWxwbDVvUGZjRGhsOWx3Q0NXVjQyUjlQR1dQdFVDdz09Cg==",
-      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.1.0/topnotes_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUR2NVFpMGF5UE5WenlxRkhldHBpaEh4ZXRTRkVPRXZxZEMxWGxaVWxoOFlpcFZtcFlTOVhEa1RyYnJWUXg0RzBzT3FOcFQzU3BwWGdnQVl5SWdjcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyNTY2CWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negp2WkZjS21FWHBFYVlLakprK1RZVkROSVdISzVncmdvU0R4TzdhTHdhaExIazBZcElGS3MrZ3BXYldyTU9maFprM0MvRStxVFh4RVdxWWJaNCtjbTZCdz09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_darwin_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUR2NVFpMGF5UE5WenlxRkhldHBpaEh4ZXRTRkVPRXZxZEMxWGxaVWxoOFlpcFZtcFlTOVhEa1RyYnJWUXg0RzBzT3FOcFQzU3BwWGdnQVl5SWdjcndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyNTY2CWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negp2WkZjS21FWHBFYVlLakprK1RZVkROSVdISzVncmdvU0R4TzdhTHdhaExIazBZcElGS3MrZ3BXYldyTU9maFprM0MvRStxVFh4RVdxWWJaNCtjbTZCdz09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_darwin_x64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUlodTdmNUc5dmNmVVdUSnhYd3lHcnlNeU91ZkVkbEpwNkVIN0xXeU8rR2ZrMzdxaG4rakRnaEFkdlg5a1RvdUFVZStGSjVSbmZzQVVickkzNUtVVndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyNjcwCWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negpHRng5dWd2blhZM09leVpTNGFUSUVYK2ZzdHNDbGdzUnZRTlNDeG1tTkZ0cFZvb0dJc3FaZ0RhcEZLdUx2Q2IyWDNWNzVBRGlQOGZrSG1STWRYRkFDQT09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_darwin_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUlodTdmNUc5dmNmVVdUSnhYd3lHcnlNeU91ZkVkbEpwNkVIN0xXeU8rR2ZrMzdxaG4rakRnaEFkdlg5a1RvdUFVZStGSjVSbmZzQVVickkzNUtVVndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyNjcwCWZpbGU6dG9wbm90ZXMuYXBwLnRhci5negpHRng5dWd2blhZM09leVpTNGFUSUVYK2ZzdHNDbGdzUnZRTlNDeG1tTkZ0cFZvb0dJc3FaZ0RhcEZLdUx2Q2IyWDNWNzVBRGlQOGZrSG1STWRYRkFDQT09Cg==",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_darwin_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUZjOWtRVlh3VDhBWHIvcmJTeTZlK2h1KzZLbUZtUEk2V1NsVVNUK21lS0FTWlhRb2ZBeVhsZ2daWUdXbUx5WmxqS0dJZWV3UXZHSlhrbVlwRk1GZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTg3MjAyCWZpbGU6dG9wbm90ZXNfMC4xLjBfYW1kNjQuQXBwSW1hZ2UKQ2JPMC96Q0pxTWdRRDVmUmplQjhzTmF0ZkROMU9OaXNreGhLL2w0TFAzMC8yWmVHZ0M4UC9xdjdLZlBWYkI1WXJVRWViSVFpY2RCcFB1c1dOWUlJREE9PQo=",
-      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.1.0/topnotes_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUlmalJJUzRNaUdvTVlRWjUwZUd3NnBncWt1TFBIVHJmcHBKR1V4ZWJuTEtJbEExSmxEeXdySXNLTzRxUjU5Tm0vTUpiemxEMHpwQWpJd3MwbE02aGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyOTk2CWZpbGU6dG9wbm90ZXNfMC4yLjBfYW1kNjQuQXBwSW1hZ2UKRTNDUTNBaHFKVWtyNEwyWUx6ek8xNnJrcnBqNkwxR0poVkp4VnBuU09MSERkeUV2TTVkRlF4OW1vZE1BWFc2SlFnNmxqVVRtZ1BhRjdhamxsN0hHREE9PQo=",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_0.2.0_amd64_linux.AppImage"
     },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUxOb2RXUzVLdTJrRlJhbllNeU15TDk5ZVBaOFFsSkhkVUp6SG5uUTVSZ3F4YW1oLzV6MG5xS29OdkZacnJUcndYUDJKcXU1a2VtS05qa2g2L21vdXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYwOTg1OTI4CWZpbGU6dG9wbm90ZXNfMC4xLjBfeDY0X2VuLVVTLm1zaQp0ajc5cjZMRTNPbjJmcG1UL2ZCRWZYZmJXdWpDbzdGaXNUQlFYMjhLaHU5ZVppNVhKRS9GOEJLWlVORVVPNWxjbkI1cW94YU43T0VITzh0b21FMmZDdz09Cg==",
-      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.1.0/topnotes_0.1.0_x64_en-US.msi"
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUlmalJJUzRNaUdvTVlRWjUwZUd3NnBncWt1TFBIVHJmcHBKR1V4ZWJuTEtJbEExSmxEeXdySXNLTzRxUjU5Tm0vTUpiemxEMHpwQWpJd3MwbE02aGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyOTk2CWZpbGU6dG9wbm90ZXNfMC4yLjBfYW1kNjQuQXBwSW1hZ2UKRTNDUTNBaHFKVWtyNEwyWUx6ek8xNnJrcnBqNkwxR0poVkp4VnBuU09MSERkeUV2TTVkRlF4OW1vZE1BWFc2SlFnNmxqVVRtZ1BhRjdhamxsN0hHREE9PQo=",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_0.2.0_amd64_linux.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUxyNXBTS3lIK2F0ZjZ5SVJWV2h0YUtnWHB5RUoyNUswaHFZcVd3cTFzemd3dEZVQ2FIa1N6Y1lxaGpWRjN4b2JTNGx6ckxKcWZwWXRpdXNoVnM0cFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyOTk2CWZpbGU6dG9wbm90ZXNfMC4yLjBfYW1kNjQuZGViCk9KemsyUlNvNlJkWk1BTWFxeUlKQ3V0eTBFUldqSFZOR0pvOUMwM1dJSFlQSkIxK0h4N0VZYzBOeFUrOG54M21mREVINURqOW1vbk9mVWNlL2ZWNkRnPT0K",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes_0.2.0_amd64_linux.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTL2dpQ1UzZDRUbUswZXpuSVNPaURaNTZNVytrcUw0QnJVWndLWFNQVDZkZHpaOERCTUV1ZUo1SjlBd0NCUjE5ZkFrbU9uMnV3c00yMmg0ek1OUkhJYjJLT284RnZmYmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjYyOTk2CWZpbGU6dG9wbm90ZXMtMC4yLjAtMS54ODZfNjQucnBtCm5sNCt2VitFcXRyWGlHRzVDa056L2tId29QQlgram5WRXIvZUlidEdxMlM5WGZscHRqTmora1BuVFdLbGZLZXBVckRwTldaVk44NnhBSWJlUHQvV0FBPT0K",
+      "url": "https://github.com/yoansj/topnotes-release/releases/download/app-v0.2.0/topnotes-0.2.0-1.x86_64_linux.rpm"
     }
   }
 }
