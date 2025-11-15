@@ -1,1 +1,9 @@
-usr/share/applications/topnotes.desktop
+[Desktop Entry]
+Categories=
+Comment=markdown floating notes app
+Exec=topnotes
+StartupWMClass=topnotes
+Icon=topnotes
+Name=topnotes
+Terminal=false
+Type=Application

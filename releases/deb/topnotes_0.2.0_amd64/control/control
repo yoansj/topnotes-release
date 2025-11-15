@@ -1,9 +1,0 @@
-Package: topnotes
-Version: 0.2.0
-Architecture: amd64
-Installed-Size: 22253
-Maintainer: Yoan Saint Juste
-Priority: optional
-Depends: libwebkit2gtk-4.1-0, libgtk-3-0
-Description: markdown floating notes app
- (none)
